@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Unit 2 Homework Assignment - Responsive Portfolio
+# Basic-Portfolio
+Unit 1 Homework Assignment
