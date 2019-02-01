@@ -605,6 +605,15 @@ footer {
         line-height: 1.5em;
         border: 1px solid #dddddd;
     }
+
+    
+    #bio-image {
+        width: 250px;
+        height: 250px;
+        margin-right: 200px;
+        margin-left: 140px;
+        margin-bottom: 20px;
+    }
         
     .portfolio-container {
         width: 95%;
